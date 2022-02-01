@@ -1,0 +1,62 @@
+{
+  "dataList": [
+    {
+      "name": "Abdul",
+      "description": "Some Description",
+      "phone": "03000000000",
+      "id": 1
+    },
+    {
+      "name": "Another Name",
+      "description": "Another Description",
+      "phone": "1234567890-456789",
+      "id": 2
+    },
+    {
+      "name": "Name 3",
+      "description": "Description 3",
+      "phone": "123456789",
+      "id": 3
+    }
+  ],
+  "Products": [
+    {
+      "name": "Product 1",
+      "description": "Description 1",
+      "phone": "",
+      "quantity": "10",
+      "status": "Active",
+      "location": "Multan",
+      "id": 1
+    },
+    {
+      "name": "Product 2",
+      "description": "Description 2",
+      "phone": "",
+      "quantity": "20",
+      "status": "Pending",
+      "location": "Multan",
+      "id": 2
+    }
+  ],
+  "Notifications": [
+    {
+      "name": "",
+      "description": "Some Description",
+      "phone": "",
+      "heading": "Notification 1",
+      "from": "User 1",
+      "status": "Read",
+      "id": 1
+    },
+    {
+      "name": "",
+      "description": "Another Description",
+      "phone": "",
+      "heading": "Notification 2",
+      "from": "User 2",
+      "status": "Unread",
+      "id": 2
+    }
+  ]
+}
